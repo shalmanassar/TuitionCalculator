@@ -1,0 +1,37 @@
+C:\Users\Charles Simmons\Google Drive\00schoolstuff\0 CITC2190 Capstone\Project Logic\CapstoneTuitionProject\CapstoneTuitionProject\bin\Debug\CapstoneTuitionProject.exe.config
+C:\Users\Charles Simmons\Google Drive\00schoolstuff\0 CITC2190 Capstone\Project Logic\CapstoneTuitionProject\CapstoneTuitionProject\bin\Debug\CapstoneTuitionProject.exe
+C:\Users\Charles Simmons\Google Drive\00schoolstuff\0 CITC2190 Capstone\Project Logic\CapstoneTuitionProject\CapstoneTuitionProject\bin\Debug\CapstoneTuitionProject.pdb
+C:\Users\Charles Simmons\Google Drive\00schoolstuff\0 CITC2190 Capstone\Project Logic\CapstoneTuitionProject\CapstoneTuitionProject\obj\Debug\CapstoneTuitionProject.csprojResolveAssemblyReference.cache
+C:\Users\Charles Simmons\Google Drive\00schoolstuff\0 CITC2190 Capstone\Project Logic\CapstoneTuitionProject\CapstoneTuitionProject\obj\Debug\CapstoneTuitionProject.TuitionCalculatorForm.resources
+C:\Users\Charles Simmons\Google Drive\00schoolstuff\0 CITC2190 Capstone\Project Logic\CapstoneTuitionProject\CapstoneTuitionProject\obj\Debug\CapstoneTuitionProject.Properties.Resources.resources
+C:\Users\Charles Simmons\Google Drive\00schoolstuff\0 CITC2190 Capstone\Project Logic\CapstoneTuitionProject\CapstoneTuitionProject\obj\Debug\CapstoneTuitionProject.csproj.GenerateResource.Cache
+C:\Users\Charles Simmons\Google Drive\00schoolstuff\0 CITC2190 Capstone\Project Logic\CapstoneTuitionProject\CapstoneTuitionProject\obj\Debug\CapstoneTuitionProject.exe
+C:\Users\Charles Simmons\Google Drive\00schoolstuff\0 CITC2190 Capstone\Project Logic\CapstoneTuitionProject\CapstoneTuitionProject\obj\Debug\CapstoneTuitionProject.pdb
+C:\Users\Rami\Documents\school\CapstoneTuitionProject\CapstoneTuitionProject\bin\Debug\CapstoneTuitionProject.exe.config
+C:\Users\Rami\Documents\school\CapstoneTuitionProject\CapstoneTuitionProject\obj\Debug\CapstoneTuitionProject.exe
+C:\Users\Rami\Documents\school\CapstoneTuitionProject\CapstoneTuitionProject\obj\Debug\CapstoneTuitionProject.pdb
+C:\Users\Rami\Documents\school\CapstoneTuitionProject\CapstoneTuitionProject\bin\Debug\CapstoneTuitionProject.exe
+C:\Users\Rami\Documents\school\CapstoneTuitionProject\CapstoneTuitionProject\bin\Debug\CapstoneTuitionProject.pdb
+C:\Users\Rami\Documents\school\CapstoneTuitionProject\CapstoneTuitionProject\obj\Debug\CapstoneTuitionProject.csprojResolveAssemblyReference.cache
+C:\Users\Rami\Documents\school\CapstoneTuitionProject\CapstoneTuitionProject\obj\Debug\CapstoneTuitionProject.TuitionCalculatorForm.resources
+C:\Users\Rami\Documents\school\CapstoneTuitionProject\CapstoneTuitionProject\obj\Debug\CapstoneTuitionProject.Properties.Resources.resources
+C:\Users\Rami\Documents\school\CapstoneTuitionProject\CapstoneTuitionProject\obj\Debug\CapstoneTuitionProject.csproj.GenerateResource.Cache
+C:\Users\Charles Simmons\Google Drive\00schoolstuff\0 CITC2190 Capstone\Project Logic\CapstoneTuitionProject_RC\CapstoneTuitionProject\CapstoneTuitionProject\bin\Debug\CapstoneTuitionProject.exe.config
+C:\Users\Charles Simmons\Google Drive\00schoolstuff\0 CITC2190 Capstone\Project Logic\CapstoneTuitionProject_RC\CapstoneTuitionProject\CapstoneTuitionProject\obj\Debug\CapstoneTuitionProject.exe
+C:\Users\Charles Simmons\Google Drive\00schoolstuff\0 CITC2190 Capstone\Project Logic\CapstoneTuitionProject_RC\CapstoneTuitionProject\CapstoneTuitionProject\obj\Debug\CapstoneTuitionProject.pdb
+C:\Users\Charles Simmons\Google Drive\00schoolstuff\0 CITC2190 Capstone\Project Logic\CapstoneTuitionProject_RC\CapstoneTuitionProject\CapstoneTuitionProject\bin\Debug\CapstoneTuitionProject.exe
+C:\Users\Charles Simmons\Google Drive\00schoolstuff\0 CITC2190 Capstone\Project Logic\CapstoneTuitionProject_RC\CapstoneTuitionProject\CapstoneTuitionProject\bin\Debug\CapstoneTuitionProject.pdb
+C:\Users\Charles Simmons\Google Drive\00schoolstuff\0 CITC2190 Capstone\Project Logic\CapstoneTuitionProject_RC\CapstoneTuitionProject\CapstoneTuitionProject\obj\Debug\CapstoneTuitionProject.csprojResolveAssemblyReference.cache
+C:\Users\Charles Simmons\Google Drive\00schoolstuff\0 CITC2190 Capstone\Project Logic\CapstoneTuitionProject_RC\CapstoneTuitionProject\CapstoneTuitionProject\obj\Debug\CapstoneTuitionProject.TuitionCalculatorForm.resources
+C:\Users\Charles Simmons\Google Drive\00schoolstuff\0 CITC2190 Capstone\Project Logic\CapstoneTuitionProject_RC\CapstoneTuitionProject\CapstoneTuitionProject\obj\Debug\CapstoneTuitionProject.Properties.Resources.resources
+C:\Users\Charles Simmons\Google Drive\00schoolstuff\0 CITC2190 Capstone\Project Logic\CapstoneTuitionProject_RC\CapstoneTuitionProject\CapstoneTuitionProject\obj\Debug\CapstoneTuitionProject.csproj.GenerateResource.Cache
+C:\Users\shalm\Google Drive\00schoolstuff\0 CITC2190 Capstone\Project Logic\CapstoneTuitionProject_RC\CapstoneTuitionProject\CapstoneTuitionProject\bin\Debug\CapstoneTuitionProject.exe.config
+C:\Users\shalm\Google Drive\00schoolstuff\0 CITC2190 Capstone\Project Logic\CapstoneTuitionProject_RC\CapstoneTuitionProject\CapstoneTuitionProject\bin\Debug\CapstoneTuitionProject.exe
+C:\Users\shalm\Google Drive\00schoolstuff\0 CITC2190 Capstone\Project Logic\CapstoneTuitionProject_RC\CapstoneTuitionProject\CapstoneTuitionProject\bin\Debug\CapstoneTuitionProject.pdb
+C:\Users\shalm\Google Drive\00schoolstuff\0 CITC2190 Capstone\Project Logic\CapstoneTuitionProject_RC\CapstoneTuitionProject\CapstoneTuitionProject\obj\Debug\CapstoneTuitionProject.csprojResolveAssemblyReference.cache
+C:\Users\shalm\Google Drive\00schoolstuff\0 CITC2190 Capstone\Project Logic\CapstoneTuitionProject_RC\CapstoneTuitionProject\CapstoneTuitionProject\obj\Debug\CapstoneTuitionProject.TuitionCalculatorForm.resources
+C:\Users\shalm\Google Drive\00schoolstuff\0 CITC2190 Capstone\Project Logic\CapstoneTuitionProject_RC\CapstoneTuitionProject\CapstoneTuitionProject\obj\Debug\CapstoneTuitionProject.Properties.Resources.resources
+C:\Users\shalm\Google Drive\00schoolstuff\0 CITC2190 Capstone\Project Logic\CapstoneTuitionProject_RC\CapstoneTuitionProject\CapstoneTuitionProject\obj\Debug\CapstoneTuitionProject.csproj.GenerateResource.Cache
+C:\Users\shalm\Google Drive\00schoolstuff\0 CITC2190 Capstone\Project Logic\CapstoneTuitionProject_RC\CapstoneTuitionProject\CapstoneTuitionProject\obj\Debug\CapstoneTuitionProject.csproj.CoreCompileInputs.cache
+C:\Users\shalm\Google Drive\00schoolstuff\0 CITC2190 Capstone\Project Logic\CapstoneTuitionProject_RC\CapstoneTuitionProject\CapstoneTuitionProject\obj\Debug\CapstoneTuitionProject.exe
+C:\Users\shalm\Google Drive\00schoolstuff\0 CITC2190 Capstone\Project Logic\CapstoneTuitionProject_RC\CapstoneTuitionProject\CapstoneTuitionProject\obj\Debug\CapstoneTuitionProject.pdb
